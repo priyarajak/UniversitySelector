@@ -1,0 +1,29 @@
+.APP{
+    margin:10px;
+    display:flex;
+    flex-direction: column;
+}
+.navbar{
+    margin: 0px ;
+    display: flex;
+    width:100%;
+    flex-direction: row-reverse;
+    position: fixed;
+    top:0;
+    right:0;
+    border-bottom: 1px solid rgb(116, 116, 230);
+}
+.nav-button{
+    padding: 6px 31px;
+    font-size: 15px;
+    margin-right:0px;
+    background-color: rgb(163, 236, 236);
+    border: 0px;
+    border-right: 1px solid rgb(133, 212, 212);
+    border-left: 1px solid rgb(133, 212, 212);
+    color: rgb(90, 137, 236) ;
+}
+button:hover{
+    color: rgb(9, 79, 119);
+    background-color: rgb(116, 191, 221);
+}

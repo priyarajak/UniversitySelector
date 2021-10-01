@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+}
+
+.col{
+    flex-direction: column;
+}
+
+.spaceBetween {
+    justify-content: space-between;
+}
+
+.card {
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.divider {
+    background-color: #dbdbdb;
+    height: 1px;
+}
+
+.marginTop {
+    margin-top: 8px;
+}

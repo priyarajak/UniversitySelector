@@ -1,0 +1,2 @@
+import universityBucketContainer from './universityBucketContainer'
+export default universityBucketContainer;
