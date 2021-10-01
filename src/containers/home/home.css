@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+}
+
+.spaceBetween {
+    justify-content: space-between;
+}
+
+.searchWidth {
+    width: 40%;
+    position: fixed;
+    right:0;
+    top:0;
+    bottom: 0;
+}
+
+.listWidth {
+    width: 60%
+}

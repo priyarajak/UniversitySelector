@@ -1,0 +1,22 @@
+
+    .fixed-header{
+        width: 100%;
+        position: fixed;        
+        background: #333;
+        padding: 10px 0;
+        color: #ffff;
+    }
+    .fixed-header{
+        top: 0;
+        width: 60%
+    }
+    .container{
+        width: 60%;
+        margin: 0 auto; 
+    }
+    nav a{
+        color: black;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+    }
